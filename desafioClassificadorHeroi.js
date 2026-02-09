@@ -1,6 +1,6 @@
 // 1. Criando Variáveis para o Herói
-let nomeHeroi = "Aprendiz";
-let xpHeroi = 1500;
+let nomeHeroi = "Wolverine";
+let xpHeroi = 15000;
 
 // 2. Criando Variável para cada nível (começa vazia)
 let nivelHeroi = "";
